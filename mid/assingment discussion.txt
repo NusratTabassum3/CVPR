@@ -1,0 +1,5 @@
+From of the graph we see that when the number of N is increasing the accuracy is also increasing 
+in Manhattan method On the other hand when the number of N is increasing the accuracy also 
+decreaseing in the Euclidean method .From of the model , maximum accuracy is 0.208 for the 
+Manhattan method.So we say that the Manhattan method predict more accurate rather than the 
+Euclidean method so Manhattan method is the best method.
